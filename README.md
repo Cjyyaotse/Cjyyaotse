@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cjyyaotse
+- 👋 Hi, I’m Collins Jojo Yawson Yaotse
 - 👀 I’m interested in Machine learning and artificial Intelligence in engineering
-- 🌱 I’m currently learning programming and software engineering
+- 🌱 I’m currently learning programming, data science and software engineering
 - 💞️ I’m looking to collaborate on anything tech
 - 📫 Reach me on linkedin www.linkedin.com/in/collins-yaotse-86505124b and email at jojoyawson573@gmail.com
 
